@@ -1,0 +1,6 @@
+data/
+chroma_dbs/
+embedder_cache/
+
+.idea
+__pycache__
